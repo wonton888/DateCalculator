@@ -1,6 +1,6 @@
 # Weekday Finder
 
-#### By Filipe Silvestre, Micah Courey
+#### By Filipe Silvestre, Micah Courey, Adam Won
 
 ## Description
 
